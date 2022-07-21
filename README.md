@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Dias</h1>
-<h3 align="center">A passionate fullstack student from Brazil</h3>
+<h3 align="center">A passionate Frontend Programmer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrodiasme&label=Profile%20views&color=0e75b6&style=flat" alt="leandrodiasme" /> </p>
 

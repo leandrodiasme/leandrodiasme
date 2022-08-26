@@ -2,8 +2,6 @@
 🔭 I’m currently working  on sites using HTML5, flexbox, SASS and ReactJS.<br><br>👨‍💻 All of my projects are available at https://github.com/leandrodiasme?tab=repositories<br><br>📫 How to reach me leandrodias.me@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/leandro-dias-me/<br><br>💻 My website: https://leandrodias.me
 
 
-(https://media-exp1.licdn.com/dms/image/C4D16AQFpWXNlDA5NqA/profile-displaybackgroundimage-shrink_200_800/0/1651208790877?e=1666828800&v=beta&t=mEDe2FjyTJdfR3WQPWVZ7Z3CAhM05KwgghlS2m3or9Q)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leandrodias.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrodias-me) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thelelecobr) 
 
